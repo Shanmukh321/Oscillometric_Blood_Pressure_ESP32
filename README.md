@@ -4,7 +4,7 @@ All the MATLAB related code are included.
 
 Please refer the datasets and understand how the data is being stored once the processing starts.
 
-Then play with that datasets into your liking.
+Then play with that datasets to your liking.
 
 The processing of the data is pretty simple. load -> bandpass filter -> low pass filter -> peaks -> envelope -> find the MAP -> ratios multiplied -> SBP and DBP.
 
